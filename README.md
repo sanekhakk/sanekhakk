@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanekhakk&show_icons=true&theme=synthwave&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanekhakk&layout=compact&theme=synthwave&hide_border=true"/>
 </div>
 
 <div align="center">
