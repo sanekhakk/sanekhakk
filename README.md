@@ -44,6 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanekhakk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanekhakk@gmail.com)
+[![Portfolio](style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/sanekhakk)
 
 </div>
 
