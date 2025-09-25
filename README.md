@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6EC7&background=1A1B3A00&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Python%2FDjango+Developer+%F0%9F%90%8D;React.js+Developer+%E2%9A%9B%EF%B8%8F;Student+%F0%9F%8E%93)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6EC7&background=1A1B3A00&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Python%2FDjango+Developer+%F0%9F%90%8D;React.js+Developer+%E2%9A%9B%EF%B8%8F;Btech%2FCSE%2FStudent+%F0%9F%8E%93)
 
 <br>
 
